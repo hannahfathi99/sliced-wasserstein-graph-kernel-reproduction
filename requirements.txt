@@ -1,0 +1,11 @@
+numpy
+
+scipy
+
+scikit-learn
+
+matplotlib
+
+typing-extensions
+
+POT
